@@ -1,0 +1,11 @@
+.local
+.output.js
+
+dist/
+node_modules
+
+**/*.svg
+**/*.sh
+/public/*
+/src/styles/element_theme/*
+/src/styles/iconfont/*
